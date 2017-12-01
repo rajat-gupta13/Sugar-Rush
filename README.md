@@ -26,7 +26,7 @@ A set of rules and a basic description of what the game offers.
 
 ## Deployment
 
-The game is being built for the desktop systems with support for VR.
+The game is being built for the Microsoft Kinect.
 
 ## Authors
 
